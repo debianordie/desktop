@@ -3,5 +3,6 @@
 
 run_dod_module 'system'
 
-package install telegram-desktop keepassx zim virt-manager terminator git geany-plugin-treebrowser
-package install webext-https-everywhere webext-privacy-badger webext-keepassxc-browser webext-ublock-origin-firefox
+package install terminator thunar geany geany-plugin-treebrowser zim keepassx virt-manager
+package install telegram-desktop thunderbird
+package install firefox-esr webext-https-everywhere webext-privacy-badger webext-keepassxc-browser webext-ublock-origin-firefox
